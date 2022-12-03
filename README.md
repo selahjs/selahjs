@@ -1,5 +1,5 @@
-👋 Hi, I’m Selahadin Jemal
-I’m a seasoned, forward-looking Full-Stack Web Developer 3+ years background in creating and executing innovative software solutions to enhance
+👋 Hi, I’m Selahadin Jemal.
+a seasoned, forward-looking Full-Stack Web Developer 3+ years background in creating and executing innovative software solutions to enhance
 business productivity. Strong engineering professional skilled in HTML, CSS, JavaScript | Typescript, Angular, React, ASP.NET, C#, WordPress and 
 Entity Framework.
 
