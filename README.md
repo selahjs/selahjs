@@ -4,7 +4,7 @@ business productivity. Strong engineering professional skilled in HTML, CSS, Jav
 Entity Framework.
 
 Feel free to reach out!
-- LinkedIn: linkedin.com/in/selahadin-jemal-a9b178155
+- LinkedIn: https://linkedin.com/in/selahadin-jemal-a9b178155
 - Gmail: selahjemal@gmail.com
 
 <!---
