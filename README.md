@@ -1,6 +1,4 @@
-👋 Hi, I’m Selahadin Jemal. 
-A Software Engineer. I Specialize in Fullstack Web development. I Mainly use React in the frontend and I use popular ui Libraries like Material UI and css Libraries like Tailwind. And for the backend I use Laravel, Springboot, Dot net, and Node with the usuall dbms and their orm. 
-I call my self a "realistic perfectionist" which by my definitions is, a person who worries / nerds about the minute details of to a reasonable degree. well a little above that.. As a software engineer, I like to challenge my self and wear different hats. I'm interested in all aspect of a software journy i.e. programming, testing, ci/cd, serveres...
+👋 Hi, I’m Selahadin Jemal. A Software Engineer. I Specialize in Full-Stack Web development. I Mainly use React in the frontend and I use popular UILibraries like Material UI and CSS Libraries like Tailwind. And for the backend I use Laravel, Spring-boot, Dot net, and Node with the usual DBMSs and their ORMs. I call my self a "realistic perfectionist" which by my definitions is, a person who worries / nerds about the minute details of to a reasonable degree. well a little above that.. As a software engineer, I like to challenge my self and wear different hats. I'm interested in all aspect of a software journey i.e. programming, testing, ci/cd, servers etc..
 
 Feel free to reach out!
 - LinkedIn: https://linkedin.com/in/selahadin-jemal-a9b178155
